@@ -1,0 +1,18 @@
+1 Pizza 3
+2 Burger 3
+3 Salad 1
+4 Pasta 1
+5 Sandwich 2
+6 Sushi 2
+7 Steak 3
+8 Chicken Curry 4
+9 Fish and Chips 4
+10 Tacos 3
+11 Burritos 3
+12 Hummus 3
+13 Falafel 3
+14 Kofta 4
+15 Mansaf 5
+16 Shawarma 4
+17 Kebabs 2
+18 Baklava 2
